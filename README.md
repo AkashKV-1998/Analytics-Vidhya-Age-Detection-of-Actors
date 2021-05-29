@@ -5,6 +5,8 @@
 
 Facial feature analysis has always been a topic of interest mainly due to its applicability. Deep Learning techniques are now making it possible for face analysis to be not just a dream but a reality. This practice problem is get us more acquainted with deep learning. 
 
+Analytics Vidhya solution link : [Click here](https://www.analyticsvidhya.com/blog/2017/06/hands-on-with-deep-learning-solution-for-age-detection-practice-problem/?utm_source=practice-problem-age-detection&utm_medium=Datahack)
+
 In the program, I have used 5 models
 
 1. Model 1: Accuracy-74%
