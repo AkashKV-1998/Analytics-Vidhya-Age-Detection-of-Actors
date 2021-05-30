@@ -17,7 +17,7 @@ Indian Movie Face database (IMFDB) is a large unconstrained face database consis
 The task is to predict the age of a person from his or her facial attributes. The problem has been converted to a multiclass problem with classes as Young, Middle and Old.
 
 
-In the program, I have used 5 models
+### In the program, I have used 5 models:
 
 1. Model 1: Accuracy-74%
 2. Model 2: Accuracy-76%
